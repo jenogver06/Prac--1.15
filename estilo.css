@@ -21,9 +21,21 @@ h2 {
 
 table {
     border: #b2b2b2 1px solid;
+    width: 100%;
 }
 
 td {
    border:black 1px solid;
-   
+
+}
+colgroup.fondo{
+    background-color:#FFECCE;
+}
+
+p.año {
+    color:#6D4440;
+}
+
+p.premio {
+    color:#6D4440;
 }
