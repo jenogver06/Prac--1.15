@@ -32,10 +32,14 @@ colgroup.fondo{
     background-color:#FFECCE;
 }
 
-p.año {
+p.tabla {
     color:#6D4440;
 }
 
-p.premio {
-    color:#6D4440;
+h3 {
+    color:saddlebrown;
+}
+
+td.amarillo{
+    background-color:#FFECCE;
 }
